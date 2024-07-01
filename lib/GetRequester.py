@@ -31,3 +31,4 @@ def main():
         print("JSON Data:")
         for person in json_data:
             print(f"Name: {person['name']}, Occupation: {person['occupation']}")
+
